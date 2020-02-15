@@ -27,24 +27,23 @@ module.exports = {
   author: {
     name: 'Tom Nováček',
     photo: '/photo-128.jpg',
-    bio: 'Psychlog v IT',
+    bio: 'Psycholog v IT',
     contacts: {
       email: 'tom.novacek@icloud.com',
       facebook: 'novacektom',
-      telegram: '#',
+      telegram: '',
       twitter: 'tomnovacek',
       github: 'tomnovacek',
       rss: '',
       vkontakte: '',
-      linkedin: '/in/tom-novacek',
+      linkedin: 'tom-novacek',
       instagram: 'novacektom',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
-      soundcloud: '',
-      skype: 'tom.novacek'
+      soundcloud: ''
     }
   }
 };
