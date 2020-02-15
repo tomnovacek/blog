@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tomnovacek-blog.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Tom Nováček',
   subtitle: 'Pár postřehů od markeťáka, který se stal psychlogem a přistál v IT',
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Tom Nováček',
-    photo: '/photo.jpg',
+    photo: '/photo-128.jpg',
     bio: 'Psychlog v IT',
     contacts: {
       email: 'tom.novacek@icloud.com',
