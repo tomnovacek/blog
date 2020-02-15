@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Tom Nováček',
-    photo: '/photo-128.jpg',
+    photo: '/photo.jpg',
     bio: 'Psycholog v IT',
     contacts: {
       email: 'tom.novacek@icloud.com',
