@@ -2,7 +2,7 @@
 template: page
 title: Odkazy
 slug: links
-draft: true
+draft: false
 ---
 Sem odkládám odkazy, ke kterým se vracím.
 
