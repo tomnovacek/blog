@@ -43,7 +43,8 @@ module.exports = {
       weibo: '',
       codepen: '',
       youtube: '',
-      soundcloud: ''
+      soundcloud: '',
+      zoom: '9671141910'
     }
   }
 };
