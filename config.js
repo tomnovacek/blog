@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Tom Nováček',
+  subtitle: 'Pár postřehů od markeťáka, který se stal psychlogem a přistál v IT',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,38 +12,39 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Články',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'O mně',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Ozvěte se',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Tom Nováček',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Psychlog v IT',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'tom.novacek@icloud.com',
+      facebook: 'novacektom',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'tomnovacek',
+      github: 'tomnovacek',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '/in/tom-novacek',
+      instagram: 'novacektom',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
+      skype: 'tom.novacek'
     }
   }
 };
