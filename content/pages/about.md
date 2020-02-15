@@ -1,7 +1,7 @@
 ---
 template: page
 title: O mně
-slug: about-me
+slug: about
 draft: false
 ---
 
