@@ -2,7 +2,7 @@
 template: page
 title: O mně
 slug: about-me
-draft: true
+draft: false
 ---
 
 Sám sebe překvapuju, kde se najednou ocitnu. Deset let jsem pracoval pro velkou korporaci. Pak jsem se se objevil na univerzitě. Fungoval a nefungoval na volné noze. A když jsem si myslel, že skončím v HR, skončil jsem mezi softwarovými vývojáři.
