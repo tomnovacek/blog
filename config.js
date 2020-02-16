@@ -31,7 +31,7 @@ module.exports = {
     contacts: {
       email: 'tom.novacek@icloud.com',
       facebook: 'novacektom',
-      telegram: '',
+      telegram: 'tomnovacek',
       twitter: 'tomnovacek',
       github: 'tomnovacek',
       rss: '',
@@ -41,10 +41,9 @@ module.exports = {
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      zoom: '9671141910'
+      codepen: 'tomnovacek',
+      youtube: 'UCSneKbXGg_gxEzp5gV8JCrQ',
+      soundcloud: ''
     }
   }
 };
