@@ -2,7 +2,7 @@
 template: post
 title: DNS records
 slug: dns
-draft: true
+draft: false
 date: 2020-02-26T06:57:04.409Z
 description: supported record types
 category: web
