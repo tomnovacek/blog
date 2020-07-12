@@ -1,6 +1,6 @@
 ---
 template: post
-title: Jak SAAS může poznat svoje zákazníky
+title: d-Jak SAAS může poznat svoje zákazníky
 slug: saas-surveys
 draft: true
 date: 2020-02-25T21:49:47.045Z
