@@ -2,7 +2,7 @@
 template: post
 title: Doručitelnost emailů
 slug: dorucitelnost
-draft: true
+draft: false
 date: 2020-04-17T15:49:47.045Z
 description: Jak si nastavit Mac
 category: email marketing
