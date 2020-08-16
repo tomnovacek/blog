@@ -2,3 +2,5 @@
 "pasteImage.basePath": "${projectRoot}/static",
 "pasteImage.forceUnixStyleSeparator": true,
 "pasteImage.prefix": "/"
+"files.autoSave": "afterDelay"
+"files.autoSaveDelay": "1000"
