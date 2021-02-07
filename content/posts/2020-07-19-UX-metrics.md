@@ -1,3 +1,16 @@
+---
+template: post
+title: UX Metrics
+slug: ux-metrics
+draft: false
+date: 2020-07-17T15:49:47.045Z
+description: Jak si nastavit VS Code
+category: tipy a triky
+socialImage: "/media/image-0.jpg"
+tags:
+  - tools
+---
+
 ## When To Use CES VS Other Customer Experience Metrics
 There are three main customer service metrics: Net Promoter Score (NPS), Customer Satisfaction (CSAT), and Customer Effort Score (CES). These metrics can complement each other, and your organization must experiment to understand which combination is right for you.
 
