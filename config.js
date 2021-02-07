@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://tomnovacek-blog.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Tom Nováček',
-  subtitle: 'Pár postřehů od markeťáka, který se stal psychlogem a přistál v IT',
+  title: 'Blog o marketingu aplikace pro techniky',
+  subtitle: 'Marketing, SEO, SAAS, Product management',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -27,9 +27,9 @@ module.exports = {
   author: {
     name: 'Tom Nováček',
     photo: '/photo.jpg',
-    bio: 'Psycholog v IT',
+    bio: 'Psycholog, nadšenec do IT',
     contacts: {
-      email: 'tom.novacek@icloud.com',
+      email: 'mail@tomasnovacek.com',
       facebook: 'novacektom',
       telegram: 'tomnovacek',
       twitter: 'tomnovacek',
@@ -37,12 +37,12 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'tom-novacek',
-      instagram: 'novacektom',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: 'tomnovacek',
-      youtube: 'UCSneKbXGg_gxEzp5gV8JCrQ',
+      codepen: '',
+      youtube: '',
       soundcloud: ''
     }
   }
